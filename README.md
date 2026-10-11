@@ -1,4 +1,4 @@
-# Recreando el analisis del proyecto A
+# Recreando el análisis del proyecto A
 
 **Por: Barrientos Gonzalez Diana, Cervantes Levario Roman & Contreras Rivera Jair Emiliano**
 

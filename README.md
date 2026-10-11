@@ -1,6 +1,6 @@
 # Recreando el análisis del proyecto A
 
-**Por: Barrientos Gonzalez Diana, Cervantes Levario Roman & Contreras Rivera Jair Emiliano**
+**Por: Barrientos González Diana, Cervantes Levario Roman & Contreras Rivera Jair Emiliano**
 
 En este documento, vamos a recrear el analísis del equipo A reportado en el github: https://github.com/leonardoglez6/proyecto-equipo-A. A contunuación se enumeran los pasos seguidos para replicarlo:
 
